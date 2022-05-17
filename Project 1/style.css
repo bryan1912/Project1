@@ -1,0 +1,40 @@
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 55px;
+	 border-bottom:3px solid #CCC;
+    border-color:black;
+    background-color:lightseagreen;
+    .fl-page .fl-page-content
+    width: 3000px; 
+    height: 180px;
+    margin:-55px auto;
+    padding-right:30;
+}
+/*page header*/
+div1{
+    font-size: 40px;
+   width: 300px;
+  border: 5px solid green;
+  padding: 20px;
+  margin: 20px;
+  position:relative; left:px; top:140px;
+  background-color: lightseagreen;
+  text-align: center;
+}
+/*Box for home page*/
+div2{
+     padding: 5px 5px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 9px #999;
+  width: 50px;
+  position:relative; left:145px; top:145px;
+}
+/*text box*/
